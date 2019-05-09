@@ -7,7 +7,7 @@ import time
 # PATTERN_LENGTH corresponds to the length of the pattern to be examined and also the historical matching patterns.
 PATTERN_LENGTH = 30
 
-# FUTURE_OFFSET represents for how many days into the future you would like to make the prediction?
+# FUTURE_OFFSET represents for how many days into the future you would like to make the prediction.
 FUTURE_OFFSET = 5
 
 # TOP_MATCH_HARD_MAX represents the amount of historical patterns to be taken into account when making the prediction.
